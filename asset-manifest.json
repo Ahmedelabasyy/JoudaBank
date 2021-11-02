@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/JoudaBank/static/css/main.c3be697f.chunk.css",
+    "main.js": "/JoudaBank/static/js/main.60e4f623.chunk.js",
+    "main.js.map": "/JoudaBank/static/js/main.60e4f623.chunk.js.map",
+    "runtime-main.js": "/JoudaBank/static/js/runtime-main.10fed111.js",
+    "runtime-main.js.map": "/JoudaBank/static/js/runtime-main.10fed111.js.map",
+    "static/js/2.16e45ebd.chunk.js": "/JoudaBank/static/js/2.16e45ebd.chunk.js",
+    "static/js/2.16e45ebd.chunk.js.map": "/JoudaBank/static/js/2.16e45ebd.chunk.js.map",
+    "index.html": "/JoudaBank/index.html",
+    "static/css/main.c3be697f.chunk.css.map": "/JoudaBank/static/css/main.c3be697f.chunk.css.map",
+    "static/js/2.16e45ebd.chunk.js.LICENSE.txt": "/JoudaBank/static/js/2.16e45ebd.chunk.js.LICENSE.txt",
+    "static/media/svg-1.svg": "/JoudaBank/static/media/svg-1.198c8835.svg",
+    "static/media/svg-2.svg": "/JoudaBank/static/media/svg-2.035ebdf9.svg",
+    "static/media/svg-3.svg": "/JoudaBank/static/media/svg-3.037927c3.svg",
+    "static/media/svg-4.96fd3d18.svg": "/JoudaBank/static/media/svg-4.96fd3d18.svg",
+    "static/media/svg-5.79960a98.svg": "/JoudaBank/static/media/svg-5.79960a98.svg",
+    "static/media/svg-8.dfbca26e.svg": "/JoudaBank/static/media/svg-8.dfbca26e.svg",
+    "static/media/video.5e99e701.mp4": "/JoudaBank/static/media/video.5e99e701.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10fed111.js",
+    "static/js/2.16e45ebd.chunk.js",
+    "static/css/main.c3be697f.chunk.css",
+    "static/js/main.60e4f623.chunk.js"
+  ]
+}
