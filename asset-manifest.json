@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/JoudaBank/static/css/main.c3be697f.chunk.css",
-    "main.js": "/JoudaBank/static/js/main.60e4f623.chunk.js",
-    "main.js.map": "/JoudaBank/static/js/main.60e4f623.chunk.js.map",
+    "main.js": "/JoudaBank/static/js/main.7547571e.chunk.js",
+    "main.js.map": "/JoudaBank/static/js/main.7547571e.chunk.js.map",
     "runtime-main.js": "/JoudaBank/static/js/runtime-main.10fed111.js",
     "runtime-main.js.map": "/JoudaBank/static/js/runtime-main.10fed111.js.map",
     "static/js/2.16e45ebd.chunk.js": "/JoudaBank/static/js/2.16e45ebd.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.10fed111.js",
     "static/js/2.16e45ebd.chunk.js",
     "static/css/main.c3be697f.chunk.css",
-    "static/js/main.60e4f623.chunk.js"
+    "static/js/main.7547571e.chunk.js"
   ]
 }
