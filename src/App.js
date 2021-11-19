@@ -7,7 +7,7 @@ function App() {
   return (
     <Router basename={window.location.pathname || ''}>
       <Switch>
-        <Route  path="/" exact component={Home} />
+        <Route exact path="/" component={Home} />
         <Route  path="/signin" component={SignInPage} />
       </Switch>
     </Router>
