@@ -5,7 +5,7 @@ import SignInPage from './pages/SignIn/signin';
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Switch>
         <Route  path="/" exact component={Home} />
         <Route  path="/signin" component={SignInPage} />
