@@ -1,13 +1,13 @@
 import './App.css';
-import {HashRouter as Router, Route, Switch} from "react-router-dom"
+import {BrowserRouter as Router, Route, Switch} from "react-router-dom"
 import Home from './pages/Home';
 import SignInPage from './pages/SignIn/signin';
 
 function App() {
   return (
-    <Router>
+    <Router basename={window.location.pathname || ''}>
       <Switch>
-        <Route  path="/"  component={Home} />
+        <Route  path="/" exact component={Home} />
         <Route  path="/signin" component={SignInPage} />
       </Switch>
     </Router>
